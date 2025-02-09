@@ -67,6 +67,13 @@ You can run the client in two ways:
 
 ---
 
+## Screenshot
+
+![CTH5g6VCgZ](https://github.com/user-attachments/assets/ea843361-8dbb-466b-a719-faa21b861894)
+
+
+---
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
